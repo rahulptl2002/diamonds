@@ -1,0 +1,11 @@
+shape,cut,color,clarity,weight_ct,fluorescence,length_width_ratio,polish,symmetry,girdle,cutlet,price,depth,table,length,width,height
+Round,Ideal,G,VVS1,0.58,FaintInfo,1.01,Excellent,Excellent,Thin to Medium,None,2311,62.4,56,5.31,5.34,3.32
+Round,Ideal,J,SI1,1,NoneInfo,1.01,Very Good,Very Good,Medium to Slightly Thick,Medium,3985,61.8,61,6.35,6.4,3.94
+Round,Very Good,F,VVS2,0.9,NoneInfo,1.02,Excellent,Very Good,Medium to Slightly Thick,None,5935,64.3,56,6.12,6.02,3.9
+Round,Ideal,H,VS1,0.3,NoneInfo,1.01,Excellent,Very Good,Medium to Slightly Thick,None,578,62.2,56,4.3,4.26,2.66
+Round,Very Good,I,VS2,1.51,NoneInfo,1.24,Excellent,Excellent,Slightly Thick to Thick,None,7195,69.4,67,7.2,5.79,4.02
+Round,Ideal,I,VVS2,1.4,NoneInfo,1,Excellent,Excellent,Medium to Slightly Thick,None,8942,62.6,58,7.11,7.08,4.44
+Round,Very Good,E,VVS1,0.31,NoneInfo,1.04,Very Good,Good,Slightly Thick to Thick,None,486,69.1,75,3.87,3.72,2.58
+Round,Very Good,I,VS1,0.31,FaintInfo,1.01,Excellent,Very Good,Slightly Thick to Thick,None,483,63.8,57,4.29,4.25,2.72
+Round,Ideal,G,SI1,0.33,NoneInfo,1,Excellent,Excellent,Medium to Slightly Thick,None,514,62.6,57,4.44,4.42,2.77
+Round,Ideal,F,SI1,1.06,NoneInfo,1.01,Excellent,Excellent,Medium to Slightly Thick,None,6725,62.5,57,6.52,6.48,4.06
